@@ -131,5 +131,6 @@ def main():
         else:
             print(amount, '\t impossible')
 
+
 if __name__ == '__main__':
     main()
